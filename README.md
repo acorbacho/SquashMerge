@@ -1,1 +1,2 @@
 # SquashMerge
+Commit inicial
