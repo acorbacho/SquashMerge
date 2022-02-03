@@ -1,3 +1,6 @@
 # SquashMerge
 Commit inicial
 Commit 1
+COLABORADOR 0
+COLABORADOR 1
+COLABORADOR 2
